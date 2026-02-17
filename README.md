@@ -111,7 +111,7 @@ lib/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/expense_tracker.git
+git clone https://github.com/naolkecha/expense_tracker.git
 cd expense_tracker
 ```
 
@@ -260,7 +260,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you find this project helpful, please give it a ⭐️!
 
-For issues and questions, please use the [GitHub Issues](https://github.com/yourusername/expense_tracker/issues) page.
+For issues and questions, please use the [GitHub Issues](https://github.com/naolkecha/expense_tracker/issues) page.
 
 ---
 
